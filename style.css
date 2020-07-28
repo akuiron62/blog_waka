@@ -1,0 +1,22 @@
+/*
+ Theme Name:   GeneratePress child
+ Theme URI:    https://monsite.com
+ Description:  Thème enfant GeneratePress
+ Author:       Yves
+ Author URI:   https://www.akuiron.com
+ Template:     generatepress
+ Version:      1.0.0
+*/
+
+.site-branding-container {
+    text-align: center;
+}
+
+.entry-title {
+    text-align: center;
+}
+
+/*.entry-content { 
+   display: inline-flex;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}*/
